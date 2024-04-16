@@ -67,7 +67,7 @@ Once you have implemented the required functionality:
    git push origin [your-branch-name]
    ```
 
-3. Submit the repo url to prithvi@smartdino.tech and cc arun@smartdino.tech
+3. Submit the repo url to arun@gitforcetalent.com and cc pankaj@gitforcetalent.com and prithvi@gitforcetalent.com
 
 ## Evaluation Criteria
 
