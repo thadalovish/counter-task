@@ -17,6 +17,8 @@
   font-size: 78px;
   padding-left: 16px;
   padding-right: 16px;
+  display: flex;
+  justify-content: center;
   margin-top: 2px;
   font-family: 'Courier New', Courier, monospace;
 }
@@ -35,6 +37,11 @@
   background-color: rgba(112, 76, 182, 0.1);
   border-radius: 2px;
   transition: all 0.15s;
+  &:disabled{
+    color: rgb(108, 100, 123);
+    background-color: rgba(139, 123, 173, 0.1);
+    cursor: not-allowed;
+  }
 }
 
 .textbox {
